@@ -1,0 +1,14 @@
+com\practice\user_management\exception\GlobalExceptionHandler.class
+com\practice\user_management\entity\User.class
+com\practice\user_management\controller\UserController.class
+com\practice\user_management\UserManagementTaskApplication.class
+com\practice\user_management\service\UserImpService$IpResponse.class
+com\practice\user_management\dto\UserRequestDto.class
+com\practice\user_management\service\UserService.class
+com\practice\user_management\service\UserImpService.class
+com\practice\user_management\mapper\UserMapper.class
+com\practice\user_management\service\UserImpService$IpCountryApiResponse.class
+com\practice\user_management\exception\EmailAlreadyExistsException.class
+com\practice\user_management\config\SwaggerConfig.class
+com\practice\user_management\config\SecurityConfig.class
+com\practice\user_management\repository\UserRepository.class

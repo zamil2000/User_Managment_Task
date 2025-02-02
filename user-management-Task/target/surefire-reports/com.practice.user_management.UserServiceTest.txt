@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.practice.user_management.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.046 s -- in com.practice.user_management.UserServiceTest
